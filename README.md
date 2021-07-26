@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @velas17
 - 👀 I’m interested in Video Games, Sneakers & Cars
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning React
 - 📫 How to reach me 
 
 <!---
